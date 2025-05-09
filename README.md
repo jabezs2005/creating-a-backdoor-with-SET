@@ -34,6 +34,7 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 ![Alt text](<img/Screenshot at 2025-05-03 05-30-42.png>)
 ![Alt text](<img/Screenshot at 2025-05-03 05-32-16.png>)
 ![Alt text](<img/Screenshot at 2025-05-03 05-43-55.png>)
-
+![Alt text](<img/gmail page.png>)
+![Alt text](<img/gmail page 2.png>)
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
