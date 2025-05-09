@@ -23,11 +23,17 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
-
-
-
-
-
+# OUTPUT:
+![Alt text](<img/Screenshot at 2025-05-03 05-24-07.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-25-07.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-26-02.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-26-10.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-26-24.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-27-03.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-27-16.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-30-42.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-32-16.png>)
+![Alt text](<img/Screenshot at 2025-05-03 05-43-55.png>)
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
